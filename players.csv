@@ -1,4 +1,4 @@
-﻿Player ID,Player Nickname,First Name,Last Name,Nationality,Date of Birth,Individual Player Skill,Micro Skill,Laning,Reflexes,Abilities,Macro Skill,Awareness,Efficiency,Decisions,Mental Skill,Consistency,Creativity,Composure,Personality Attributes,Communication,Experience,Leadership,Photo URL
+Player ID,Player Nickname,First Name,Last Name,Nationality,Date of Birth,Individual Player Skill,Micro Skill,Laning,Reflexes,Abilities,Macro Skill,Awareness,Efficiency,Decisions,Mental Skill,Consistency,Creativity,Composure,Personality Attributes,Communication,Experience,Leadership,Photo URL
 1,Yatoro,Illya,Mulyarchuk,Ukraine,2003-03-12,9.2,9.0,9,9,9,9.3,9,9,10,9.0,9,8,10,6.7,8,8,4,https://liquipedia.net/commons/Special:Redirect/file/Yatoro_2025_Team_Spirit.jpg
 2,Larl,Denis,Sigitov,Russia,2002-01-22,8.0,8.0,8,8,8,8.0,8,8,8,7.3,7,6,9,7.4,7.9,6.4,6.6,https://liquipedia.net/commons/Special:Redirect/file/Larl_2025_Team_Spirit.jpg
 3,Collapse,Magomed,Khalilov,Russia,2002-02-25,9.2,9.0,9,9,9,9.3,9,9,10,8.7,9,8,9,8.4,9.2,6.4,7.7,https://liquipedia.net/commons/Special:Redirect/file/Collapse_2025_Team_Spirit.jpg
@@ -89,3 +89,8 @@
 88,Wisper,Adrián,Dobles,Bolivia,2001-11-03,6.5,6.8,6.5,6.5,6.7,6.9,6.4,6.6,7.1,6.0,6.6,6.8,6.3,6.0,6.8,6.9,5.3,https://liquipedia.net/commons/Special:Redirect/file/Wisper_BLAST_Slam_VI_Dota.jpg
 89,Thiolicor,Thiago,de Oliveira Cordeiro,Brazil,1999-08-10,6.3,6.5,6.8,5.9,6.5,7.1,6.7,6.4,6.9,6.6,6.4,6.9,6.9,5.8,7.2,8.0,5.8,https://liquipedia.net/commons/Special:Redirect/file/Thiolicor_BLAST_Slam_VI_Dota.jpg
 90,KJ,Matheus,Santos Jungles Diniz,Brazil,1999-10-23,6.9,5.7,6.3,6.5,6.3,6.9,7.3,5.8,6.7,6.4,7.0,6.4,6.7,6.4,6.9,8.0,6.8,https://liquipedia.net/commons/Special:Redirect/file/KJ_BLAST_Slam_VI_Dota.jpg
+91,watson,Alimzhan,Islambekov,Kazakhstan,1999-08-20,7.9,8.0,7.9,7.9,7.8,7.6,7.5,8.0,7.5,7.4,7.6,7.5,7.6,7.2,7.3,7.6,4.8,https://liquipedia.net/commons/Special:Redirect/file/watson_BLAST_Slam_VI_Dota.jpg
+92,CHIRA_JUNIOR,Ilya,Chirtsov,Russia,2003-03-10,7.3,7.5,7.2,7.4,7.5,7.1,7.0,7.1,7.0,6.8,6.9,7.4,6.9,6.8,7.0,6.8,5.0,https://liquipedia.net/commons/Special:Redirect/file/CHIRA_JUNIOR_BLAST_Slam_VI_Dota.jpg
+93,DM,Dmitry,Dorokhin,Russia,1998-04-12,7.4,7.0,7.2,7.0,7.2,7.6,7.8,7.1,7.7,7.5,7.4,7.0,7.6,7.6,7.8,8.2,7.5,https://liquipedia.net/commons/Special:Redirect/file/DM_2024_PARIVISION.png
+94,Saksa,Martin,Sazdov,North Macedonia,1996-06-21,7.6,7.4,7.2,7.5,7.4,7.8,8.1,7.3,7.9,7.7,7.6,7.8,7.8,7.7,8.1,8.0,6.5,https://liquipedia.net/commons/Special:Redirect/file/Saksa_BLAST_Slam_VI_Dota.jpg
+95,Malady,Arman,Orazbayev,Kazakhstan,2001-09-05,7.0,6.7,6.8,6.9,6.8,7.4,7.6,6.7,7.4,7.2,7.1,7.0,7.3,7.4,7.7,7.0,6.8,https://liquipedia.net/commons/Special:Redirect/file/Malady_BLAST_Slam_VI_Dota.jpg
